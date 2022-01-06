@@ -4,4 +4,7 @@ this is my move of everyday:
 Life is short,Python is great!   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxy147258)](https://github.com/jxy147258/github-readme-stats)
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->   
